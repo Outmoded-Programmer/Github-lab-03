@@ -1,2 +1,6 @@
 Console.WriteLine("Name: Taha Asadullah");
 Console.WriteLine("Roll-no: 24-ST-013");
+Console.WriteLine("Addition: " + (5 + 3));
+Console.WriteLine("Subtraction: " + (10 - 6));
+Console.WriteLine("multiplication: " + (20 * 5));
+Console.WriteLine("multiplication: " + (20 / 5));
